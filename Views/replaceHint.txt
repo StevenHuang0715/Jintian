@@ -1,0 +1,5 @@
+1¡C./Home --> ""
+2¡CPage --> Page.html
+3¡C./Index	-->	./Index.html
+4¡CPage01"	-->	Page01.html"
+5¡CPage02"	-->	Page02.html"
